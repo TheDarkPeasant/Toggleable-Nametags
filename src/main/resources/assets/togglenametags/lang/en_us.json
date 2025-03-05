@@ -1,0 +1,4 @@
+{
+  "gamerule.showPlayerNametags": "Display Player Nametags",
+  "gamerule.showPlayerNametags.description": "Toggles whether or not player nametags should be visible at all"
+}
